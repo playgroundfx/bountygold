@@ -48,3 +48,13 @@ googleAnalytics = "UA-163519876-1"
 [social]
     twitter  = "https://twitter.com/FxPlayground"
     github   = "https://www.github.com/playgroundfx"
+
+[[menu.main]]
+    name = "bounty.gold"
+    url = "https://bounty.gold/"
+    weight = 2
+[[menu.main]]
+    name = "BestWebTrader"
+    url = "https://www.bestwebtrader.com/"
+    weight = 2
+
