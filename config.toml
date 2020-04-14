@@ -50,8 +50,8 @@ googleAnalytics = "UA-163519876-1"
     github   = "https://www.github.com/playgroundfx"
 
 [[menu.main]]
-    name = "bounty.gold"
-    url = "https://bounty.gold/"
+    name = "owing.cc"
+    url = "https://owing.cc/"
     weight = 2
 [[menu.main]]
     name = "BestWebTrader"
