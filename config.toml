@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://bounty.gold/"
+baseurl = "https://www.bounty.gold/"
 languageCode = "en-us"
 title = "Bounty Gold"
 theme = "hugo-cactus-theme"
@@ -51,7 +51,7 @@ googleAnalytics = "UA-163519876-1"
 
 [[menu.main]]
     name = "owing.cc"
-    url = "https://owing.cc/"
+    url = "https://www.owing.cc/"
     weight = 2
 [[menu.main]]
     name = "BestWebTrader"
